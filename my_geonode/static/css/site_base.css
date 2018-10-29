@@ -3,3 +3,26 @@
     height: 79px;
     background: transparent url("../img/geotechtz.png") no-repeat scroll 15px 0px;
 }
+
+
+.home #wrap {
+    margin: 75px 75px;
+}
+
+.home .navbar-inverse {
+    background: #0e60c3;
+}
+
+.navbar-brand {
+    width: 373px;
+    height: 79px;
+    background: url(../img/geotechtz.png) no-repeat;
+}
+
+#wrap {
+    margin: 75px 75px;
+}
+
+.navbar-inverse {
+    background: #0e60c3;
+}
